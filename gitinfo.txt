@@ -1,0 +1,16 @@
+git config --global user.name "Dipali Ubhare"
+git config --global user.email dipaliubhare@gmail.com
+
+git diff==> to see changes in file
+git add . ==> all files to stagged area.
+
+*clone command
+
+*create repository
+1. click on new
+
+* Git branching and merging -high level concept
+--git branch feature1
+--git log
+--Head=>master or feature
+--git switch feature1==>to chnage branch==> git switch nameOfthBranch

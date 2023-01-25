@@ -6,3 +6,5 @@ welcome to git.
 
 add . all 
 0000000000
+
+we will the try to merge this with master branch
